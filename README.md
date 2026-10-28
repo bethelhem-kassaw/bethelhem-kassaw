@@ -1,33 +1,25 @@
-# Hi, I'm Betty 👋
+# Hey, I'm Betty 👋
 
-**Software Engineer | React · Next.js · Flutter**
+💻 Software Engineer building web & mobile applications.
 
-I build web and mobile applications with a focus on usable interfaces, reliable API integrations, and practical software that solves real problems.
+### 🛠️ Tech Stack
 
-### Technical Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vue,flutter,dart,laravel,php" alt="React, Next.js, TypeScript, Vue, Flutter, Dart, Laravel, PHP" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,postgres,supabase,git,github" alt="JavaScript, HTML, CSS, Tailwind, Node.js, PostgreSQL, Supabase, Git, GitHub" />
+</p>
 
-- **Frontend:** React, Next.js, TypeScript, Vue.js
-- **Mobile:** Flutter, Dart
-- **Backend:** Laravel, REST APIs
-- **Admin systems:** Filament
-- **Other:** Git, UI implementation, deployment, manual testing
+### 🚀 What I Do
 
-### Engineering Experience
+- 🌐 Web development & API integration
+- 📱 Cross-platform mobile apps
+- 🎨 UI implementation & responsive design
+- ⚙️ Business systems & admin dashboards
 
-I've worked on e-commerce platforms, business management systems, healthcare dashboards, and educational and donation-focused mobile applications.
+### 🤝 Let's Connect
 
-My work includes implementing frontend interfaces, integrating APIs, collaborating with backend developers, troubleshooting issues, and contributing to production releases.
+[![Portfolio](https://img.shields.io/badge/Portfolio-bettykassaw.com-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bettykassaw.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betty-kassaw/)
 
-### Current Focus
-
-- Writing maintainable, well-tested code
-- Improving application architecture and reliability
-- Building better software development workflows
-
-### Connect
-
-- **Portfolio:** https://bettykassaw.com
-- **LinkedIn:** https://www.linkedin.com/in/betty-kassaw/
-- **GitHub:** https://github.com/bethelhem-kassaw
-
-Open to remote software engineering roles and freelance opportunities.
